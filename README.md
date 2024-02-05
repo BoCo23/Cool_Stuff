@@ -1,2 +1,2 @@
 # Cool_Stuff
-for cool thingy
+for cool thingys
